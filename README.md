@@ -74,4 +74,9 @@ Greetings! I am a Full-Stack developer with experience in building web and mobil
 
 📊 **this week i spent my time on:**
 <!--START_SECTION:waka-->
+
+```txt
+No activity tracked
+```
+
 <!--END_SECTION:waka-->
