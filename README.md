@@ -74,7 +74,9 @@ Greetings! I am a Full-Stack developer with experience in building web and mobil
 <!--START_SECTION:waka-->
 
 ```txt
-No activity tracked
+Markdown   1 hr 43 mins    ████████████████████▒░░░░   81.60 %
+YAML       23 mins         ████▓░░░░░░░░░░░░░░░░░░░░   18.38 %
+Python     0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.02 %
 ```
 
 <!--END_SECTION:waka-->
