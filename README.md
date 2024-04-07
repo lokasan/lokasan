@@ -78,3 +78,5 @@ No activity tracked
 ```
 
 <!--END_SECTION:waka-->
+
+![Snake animation](https://github.com/lokasan/lokasan/blob/output/github-contribution-grid-snake.svg)
