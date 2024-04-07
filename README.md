@@ -61,8 +61,6 @@ Greetings! I am a Full-Stack developer with experience in building web and mobil
     </a>
 </p>
 
-### Badges
-
 <p style="text-align:center;"><b>My GitHub Stats</b></p>
 
 <p align="center">
