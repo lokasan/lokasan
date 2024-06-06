@@ -59,6 +59,12 @@ Greetings! I am a Full-Stack developer with experience in building web and mobil
             <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /> 
         </picture> 
     </a>
+    <a href="http://www.t.me/lokasan" target="_blank" rel="noreferrer"> 
+        <picture> <source media="(prefers-color-scheme: dark)" srcset="https://gist.githubusercontent.com/m8rge/4c2b36369c9f936c02ee883ca8ec89f1/raw/c03fd44ee2b63d7a2a195ff44e9bb071e87b4a40/telegram-single-path-24px.svg" /> 
+            <source media="(prefers-color-scheme: light)" srcset="https://gist.githubusercontent.com/m8rge/4c2b36369c9f936c02ee883ca8ec89f1/raw/c03fd44ee2b63d7a2a195ff44e9bb071e87b4a40/telegram-single-path-24px.svg" /> 
+            <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /> 
+        </picture> 
+    </a>
 </p>
 
 <p style="text-align:center;"><b>My GitHub Stats</b></p>
