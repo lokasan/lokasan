@@ -80,11 +80,7 @@ Greetings! I am a Full-Stack developer with experience in building web and mobil
 <!--START_SECTION:waka-->
 
 ```txt
-JavaScript      54 mins         ███████▓░░░░░░░░░░░░░░░░░   30.88 %
-Solidity        42 mins         ██████░░░░░░░░░░░░░░░░░░░   23.96 %
-TypeScript      27 mins         ████░░░░░░░░░░░░░░░░░░░░░   15.59 %
-JSON            23 mins         ███▒░░░░░░░░░░░░░░░░░░░░░   13.01 %
-Text            12 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   07.23 %
+JavaScript   0 secs          █████████████████████████   100.00 %
 ```
 
 <!--END_SECTION:waka-->
