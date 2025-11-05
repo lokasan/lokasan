@@ -80,9 +80,9 @@ Greetings! I am a Full-Stack developer with experience in building web and mobil
 <!--START_SECTION:waka-->
 
 ```txt
-Python           41 mins         ████████████████▒░░░░░░░░   65.65 %
-Markdown         17 mins         ███████░░░░░░░░░░░░░░░░░░   28.42 %
-GitIgnore file   3 mins          █▒░░░░░░░░░░░░░░░░░░░░░░░   05.93 %
+Python           1 hr 22 mins    ███████████████████▒░░░░░   77.28 %
+Markdown         20 mins         ████▓░░░░░░░░░░░░░░░░░░░░   19.19 %
+GitIgnore file   3 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   03.52 %
 ```
 
 <!--END_SECTION:waka-->
